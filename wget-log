@@ -1,0 +1,11 @@
+--2026-03-12 14:52:31--  https://www.recipetineats.com/tachyon/2016/09/Baked-Pork-Chops_9-1.jpg?resize=900%2C1260
+Resolving www.recipetineats.com (www.recipetineats.com)... 13.224.185.111, 13.224.185.103, 13.224.185.48, ...
+Connecting to www.recipetineats.com (www.recipetineats.com)|13.224.185.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘images/pork-chops.jpg’
+
+images/pork-chops.jpg      [<=>                         ]       0  --.-KB/s               images/pork-chops.jpg      [ <=>                        ]  23.37K   114KB/s               images/pork-chops.jpg      [  <=>                       ]  47.85K  93.4KB/s               images/pork-chops.jpg      [   <=>                      ] 104.58K   146KB/s               images/pork-chops.jpg      [    <=>                     ] 183.01K   251KB/s    in 0.7s    
+
+2026-03-12 14:52:32 (251 KB/s) - ‘images/pork-chops.jpg’ saved [187404]
+
